@@ -1,12 +1,11 @@
 ### Hi 👋
 
-I’m Shriram Sapparad, I'm a Lead UI Engineer at Maersk, Bengaluru, India. 
+I’m Shriram Sapparad, I'm a software engineer working on front-end side of web applications development.
 
-Working on we b application using React.js and Vue 2.
+Currently working on web applications using React.js, Vue 2/3, and Angular.
 
-I started my Angular journey from 20014 with version 1.27 and was on 8(migration to 9 is in progress) before i lesft my last organization.
+I started my Angular journey from 20014 with version 1.27 and was on 9 before I left JPMorgan Chase India Ltd, Bengaluru.
 
-I started my career as web applications developer using ASP.NET for banking systems at Tata Consultancy Services before I move to Societe Generale, where i got my first experience with angular 1.27 and ended up awarded 3rd in the organization level competition.
-
+I started my career as web applications developer using ASP.NET for banking systems at Tata Consultancy Services before I move to Societe Generale, where I got my first experience with angular 1.27 and ended up with 3rd prize in the organization level competition.
 
 I’m on [Twitter](http://twitter.com/shriramcs)
